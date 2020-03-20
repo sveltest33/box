@@ -1,3 +1,3 @@
 # Boxing + Exciting
 
-복싱 사이트
+GitHub 공부하는 페이지입니다.
